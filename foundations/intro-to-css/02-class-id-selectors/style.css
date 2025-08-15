@@ -1,0 +1,18 @@
+.odd {
+    background-color: hsl(350, 50%, 70%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second-ele {
+    color: blue;
+    font-size: 36px;
+}
+
+.large {
+    font-size: 24px;
+}
+
+#fourth-ele {
+    background-color: hsl(120, 50%, 70%);
+    font-weight: bold;
+}
